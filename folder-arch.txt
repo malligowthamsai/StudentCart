@@ -1,0 +1,5 @@
+studentcart-mvp/
+
+├── client/        (React app)
+├── server/        (Node backend)
+└── README.md
